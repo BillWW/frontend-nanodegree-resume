@@ -8,7 +8,7 @@ var bio = {
         "twitter": "@Bill_W_Prague",
         "location": "Prague"
     },
-    "welcomeMessage": "\"Positive disruption, focused innovation, concrete results\"",
+    "welcomeMessage": "\"Positive disruption, focused innovation, concrete results...\"",
     "skills": [
         "Writing", "Innovating", "Facilitating"
     ],
@@ -131,37 +131,37 @@ var education = {
         "location": "New York, NY",
         "degree": "Bachelor of Arts",
         "major": ["English Literature"],
-        "dates": 2001,
+        "dates": 2002,
         "url": "http://www.hunter.cuny.edu/"
     }, {
+        "name": "Next Level Institue",
+        "location": "Prague, Czech Republic",
+        "degree": "TEFL Certificate",
+        "major": ["TEFL for Business"],
+        "dates": 2003,
+        "url": "http://www.aboutlanguageschools.com/languageschool/next-level-language-institute319/"
+    },  {
         "name": "Montclair High School",
         "location": "Montclair, NJ",
         "degree": "Diploma",
         "major": [],
         "dates": 1996,
         "url": "http://mhs.mpsdnj.us/"
-    }, {
-        "name": "Next Level Institue",
-        "location": "Prague, Czech Republic",
-        "degree": "TEFL Certificate",
-        "major": [],
-        "dates": 2002,
-        "url": "http://www.aboutlanguageschools.com/languageschool/next-level-language-institute319/"
     }],
     "onlineCourses": [{
         "title": "Intro to HTML and CSS",
         "school": "Udacity",
-        "dates": 2015,
+        "dates": "October 2015",
         "url": "https://www.udacity.com/course/viewer#!/c-ud304-nd"
     }, {
         "title": "Responsive Web Design Fundamentals",
         "school": "Udacity",
-        "dates": 2015,
+        "dates": "November 2015",
         "url": "https://www.udacity.com/course/viewer#!/c-ud893-nd"
     }, {
         "title": "JavaScript Basics",
         "school": "Udacity",
-        "dates": 2015,
+        "dates": "December 2015",
         "url": "https://www.udacity.com/course/viewer#!/c-ud804-nd"
     }]
 };
